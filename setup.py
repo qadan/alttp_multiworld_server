@@ -9,7 +9,7 @@ setup(
     maintainer='Daniel Aitken',
     maintainer_email='kyariester@gmail.com',
     url='https://github.com/qadan/alttp_multiworld_server',
-    scripts=['bin/alttp_multiworld_server.py'],
+    scripts=['bin/alttp_multiworld_server.wsgi'],
     install_requires=[
         'flask',
         ],

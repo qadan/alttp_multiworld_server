@@ -1,1 +1,3 @@
 autopurge_timer: 200
+database: alttp_multiworld_server.db
+debug: false
